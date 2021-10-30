@@ -1,13 +1,13 @@
 ### Hey, I'm Lucas! <img src="https://raw.githubusercontent.com/lucasspra/lucasspra/main/Hi.gif" alt="Waving hand gif" title="Hi!" width="27" height="26" />
 
 
-🤓 <span>&nbsp;</span>I'm a front-end dev. Currently working on iFood.
+🤓 <span>&nbsp;</span>I'm a front-end dev. Currently working @ iFood.
 
 📅 <span>&nbsp;</span>I've been programming since August 2020.
 
 🎶 <span>&nbsp;</span>I absolutely love music and you can judge my musical taste <a href="https://www.last.fm/user/lucas-p">here</a>.
 
-🧰 <span>&nbsp;</span>These are the tools and languages I know (so far!):
+🧰 <span>&nbsp;</span>These are the tools and languages I'm familiar with (so far!):
  
 <div align="center">
  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&?&logoColor=white" alt="HTML5" />

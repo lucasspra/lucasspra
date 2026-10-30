@@ -5,7 +5,6 @@
 
 📅 <span>&nbsp;</span>I've been programming since August 2020.
 
-🎶 <span>&nbsp;</span>I absolutely love music and you can judge my musical taste <a href="https://www.last.fm/user/lucas-p">here</a>.
 
 🧰 <span>&nbsp;</span>These are the tools and languages I'm familiar with (so far!):
  

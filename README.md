@@ -26,9 +26,3 @@
 <div align="center">
   💌 Feel free to reach me in Portuguese, English or Spanish!
 </div>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucasspra">
-  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=social&logo=linkedin" alt="Lucas Souza's linkedin" title="My linkedin" />
-  </a>
-</div>
